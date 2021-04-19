@@ -5506,6 +5506,11 @@
             "guidelines": "https://mozilla.design/mozilla/"
         },
         {
+            "title": "MSI",
+            "hex": "ED1C24",
+            "source": "https://download.msi.com/archive/mnu_exe/pdf/2019_Q1_SPB_brochure.pdf"
+        },
+        {
             "title": "MTA",
             "hex": "0039A6",
             "source": "https://mta.info/"
